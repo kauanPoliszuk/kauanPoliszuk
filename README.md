@@ -15,27 +15,6 @@ To strengthen my learning, I go beyond classes by studying technical books and c
 
 ---
 
-### Professional Experience
-<img align="left" width="75" height="75" src="https://github.com/user-attachments/assets/73a421ea-17d3-4960-b20f-df7d9da69c32" alt="logoIK" style="margin-right: 20px;">
-
-**I.T Analytics** — Ik Plus L.T.D.A<br>
-*Período: March 2025 – Moment*
-
-<br>**IT Analyst**  Internfocused on technical support, system troubleshooting, and internal process improvement.
-
-• Provide frontline technical support ensuring system stability and user productivity  
-• Diagnose and resolve hardware, software, and system-related issues  
-• Develop internal tools and small applications to improve workflows  
-• Create technical documentation and standardized procedures  
-• Collaborate with internal teams to optimize processes and system usage  
-• Support continuous improvement initiatives through automation and analysis
-
-**Technologies & Skills:**<br>
-Node.js • Express • Technical Documentation • Process Optimization • Analytical Problem Solving
-
-
----
-
 ### Core Skills
 
 
@@ -87,15 +66,7 @@ Node.js • Express • Technical Documentation • Process Optimization • Ana
 
 ---
 
-### Education
-<img align="left" width="75" height="75" src="https://github.com/user-attachments/assets/ea6a3147-e419-4350-a9b7-68e62cfb0b4d" alt="faexLogo" style="margin-right: 20px;">
-
-**Análise Desevolvimento de Sistemas** - Extrema/MG<br>
-*Período: March 2025 – July 2027*
-
----
-
-**<div align="center"> Linguagens Principais<br>**
+**<div align="center"> My Stacks<br>**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
