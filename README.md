@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+Everyone!+I'm+Kauan+Poliszuk&color=8B0000&multiline=true&duration=600&pause=200&repeat=false&width=520&center=true&size=23)](https://readme-typing-svg.demolab.com/?lines=Node.js+%7C+NestJS+%7C+TypeScript&color=8B0000&multiline=true&duration=800&pause=300&repeat=false&width=520&size=22)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Node.js+%7C+NestJS+%7C+Java+|+SQL&color=8B0000&multiline=true&duration=600&pause=200&repeat=false&width=520&center=true&size=23)](https://readme-typing-svg.demolab.com/?lines=Node.js+%7C+NestJS+%7C+TypeScript&color=8B0000&multiline=true&duration=800&pause=300&repeat=false&width=520&size=22)
+
 
 </div>
 
