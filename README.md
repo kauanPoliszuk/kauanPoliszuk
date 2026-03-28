@@ -1,6 +1,12 @@
-# <div align="center"> Hey, everyone! I'm Kauan Poliszuk 👋</div>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+|+Python+|+SQL+|+Azure+Cloud;Back-End+Development+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+Everyone!+I'm+Kauan+Poliszuk&color=8B0000&multiline=true&duration=600&pause=200&repeat=false&width=520&center=true&size=23)](https://readme-typing-svg.demolab.com/?lines=Node.js+%7C+NestJS+%7C+TypeScript&color=8B0000&multiline=true&duration=800&pause=300&repeat=false&width=520&size=22)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Node.js+%7C+NestJS+%7C+Java+|+SQL&color=8B0000&multiline=true&duration=600&pause=200&repeat=false&width=520&center=true&size=23)](https://readme-typing-svg.demolab.com/?lines=Node.js+%7C+NestJS+%7C+TypeScript&color=8B0000&multiline=true&duration=800&pause=300&repeat=false&width=520&size=22)
+
+</div>
+
+---
+
 ### About Me
 
 I’m a student of Systems Analysis and Development with a strong interest in back-end development and Cloud. Currently, I’m learning programming languages and their ecosystems, including Java, Python, Node.js, as well as databases, data structures, and algorithms. Recently, I’ve also developed a strong interest in gaining knowledge in cloud technologies, such as AZ-900 and Amazon AWS.
