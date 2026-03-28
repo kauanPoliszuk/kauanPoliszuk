@@ -24,10 +24,6 @@
 - **Competitive Programming:** Algoritmos avançados • Estruturas de dados otimizadas • Complexidade temporal/espacial  
 - **Outros:** Jest + Supertest • CI/CD • Linux/Unix warrior • Cloud Fundamentals
 
-### 🩸 Últimas Batalhas (Hackathons & Competitions)
-
-- **[Nome do Hackathon]** — **Colocação Xº** • Sistema construído em 24-48h com performance de **Y req/s**  
-- **[Outro Evento]** — Projeto com **X usuários simulados** ou latência abaixo de **Zms** sob carga extrema
 
 *(Substitua pelos seus resultados reais — números concretos deixam o sangue mais visível)*
 
