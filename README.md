@@ -87,5 +87,13 @@ Node.js • Express • Technical Documentation • Process Optimization • Ana
 **Análise Desevolvimento de Sistemas** - Extrema/MG<br>
 *Período: March 2025 – July 2027*
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+**<div align="center"> Linguagens Principais**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kauanPoliszuk&theme=youtube-dark)](https://git.io/streak-stats)
+<div>
