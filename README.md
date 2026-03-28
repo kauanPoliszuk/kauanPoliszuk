@@ -1,36 +1,88 @@
-  ![KAUAN POLISZUK](https://github.com/user-attachments/assets/f4d28faa-cc12-48f3-874f-f6db978a9915)
+# <div align="center"> Hey, everyone! I'm Kauan Poliszuk 👋</div>
 
-**<div align="center"> Stacks Principais**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+|+Python+|+SQL+|+Azure+Cloud;Back-End+Development+Student)](https://git.io/typing-svg)
+### About Me
 
+I’m a student of Systems Analysis and Development with a strong interest in back-end development and Cloud. Currently, I’m learning programming languages and their ecosystems, including Java, Python, Node.js, as well as databases, data structures, and algorithms. Recently, I’ve also developed a strong interest in gaining knowledge in cloud technologies, such as AZ-900 and Amazon AWS.
 
-  ---
-
-### <div align="center">  🩸 Arena Status </div>
-
-- **Missão atual:** Construir sistemas backend que **sobrevivem** à carga pesada e deadlines implacáveis  
-- **Especialidade:** Arquitetura escalável, otimização extrema e código que **vence** em Competitive Programming e Hackathons
-
-### <div align="center"> ⚔️ Arsenal Técnico (Backend Puro)
-
-
-- **Frameworks:** NestJS • Fastify • Express  
-- **Banco de Dados:** PostgreSQL • Redis • Prisma • TypeORM  
-- **Performance & Escalabilidade:** Docker • Kubernetes (básicos) • RabbitMQ • Kafka • **Caching agressivo**  
-- **Competitive Programming:** Algoritmos avançados • Estruturas de dados otimizadas • Complexidade temporal/espacial  
-- **Outros:** Jest + Supertest • CI/CD • Linux/Unix warrior • Cloud Fundamentals
-
-
-*(Substitua pelos seus resultados reais — números concretos deixam o sangue mais visível)*
-
-### 🔥 Projetos em Destaque (pinned no perfil)
-
-- **`battle-ready-api`** → API de alta performance com **rate limiting agressivo**, observability e tolerância a falhas  
-- **`cp-arena-solutions`** → Soluções otimizadas de Competitive Programming (LeetCode, Codeforces, AtCoder)  
-- **`hackathon-forge`** → Boilerplate ultra-rápido para **dominar** hackathons em poucas horas
+To strengthen my learning, I go beyond classes by studying technical books and constantly practicing problem-solving on platforms like LeetCode and Beecrowd, focusing on logic, efficiency, and clean code. I’m motivated by challenges, learning through practice, and building strong foundations for a career in software development. 🚀
 
 ---
+
+### Professional Experience
+<img align="left" width="75" height="75" src="https://github.com/user-attachments/assets/73a421ea-17d3-4960-b20f-df7d9da69c32" alt="logoIK" style="margin-right: 20px;">
+
+**I.T Analytics** — Ik Plus L.T.D.A<br>
+*Período: March 2025 – Moment*
+
+<br>**IT Analyst**  Internfocused on technical support, system troubleshooting, and internal process improvement.
+
+• Provide frontline technical support ensuring system stability and user productivity  
+• Diagnose and resolve hardware, software, and system-related issues  
+• Develop internal tools and small applications to improve workflows  
+• Create technical documentation and standardized procedures  
+• Collaborate with internal teams to optimize processes and system usage  
+• Support continuous improvement initiatives through automation and analysis
+
+**Technologies & Skills:**<br>
+Node.js • Express • Technical Documentation • Process Optimization • Analytical Problem Solving
+
+
+---
+
+### Core Skills
+
+
+<img align="left" width="25" src="https://github.com/user-attachments/assets/30818c6f-0af8-40ff-a131-53de90c8e4c1" alt="Programming">
+
+**Programming & Scripting**
+
+- **Languages:** Node.js, Java, Python, SQL
+- **Technical Base:** OOP, Data Structures & Algorithms, Big O
+
+<br clear="left">
+
+
+<img align="left" width="25" src="https://github.com/user-attachments/assets/f3bc3702-c54e-4998-bf88-6e0fc99c5713" alt="Performance">
+
+**Performance & Scalability**
+
+- **Frameworks:** NestJS, Fastify, Express
+- **Caching & Queues:** Redis, RabbitMQ, Kafka, agressive Caching 
+
+<br clear="left">
+
+
+<img align="left" width="28" src="https://github.com/user-attachments/assets/c086ae3a-59e6-488f-97c2-a8e7146aa651" alt="Databases">
+
+**Databases**
+
+- **Databases:** PostgreSQL, MySQL
+- **ORMs:** Prisma, TypeORM
+
+<br clear="left">
+
+<img align="left" width="28" src="https://github.com/user-attachments/assets/c0f9ef20-4b21-4201-969a-b1975a6b5079" alt="Infrastructure">
+
+**DevOps & Infrastructure**
+
+- **Container & Orchestration:** Docker, Kubernetes (basics)
+- **Systems:** Linux/Unix, CI/CD, Cloud Fundamentals (AWS/Azure)
+
+<br clear="left">
+
+
+<img align="left" width="28" src="https://github.com/user-attachments/assets/18685f04-71fd-43cf-a01e-6e35255c4b3b" alt="Competitive">
+
+**Competitive Programming & Optimization**
+
+- **Focus:** Algoritmos avançados, Estruturas de dados otimizadas
+- **Platforms:** LeetCode, Codeforces, AtCoder
+
+---
+
+### Education
+<img align="left" width="75" height="75" src="https://github.com/user-attachments/assets/ea6a3147-e419-4350-a9b7-68e62cfb0b4d" alt="faexLogo" style="margin-right: 20px;">
+
+**Análise Desevolvimento de Sistemas** - Extrema/MG<br>
+*Período: March 2025 – July 2027*
