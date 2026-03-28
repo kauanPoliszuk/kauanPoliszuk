@@ -14,7 +14,7 @@ I’m a student of Systems Analysis and Development with a strong interest in ba
 To strengthen my learning, I go beyond classes by studying technical books and constantly practicing problem-solving on platforms like LeetCode and Beecrowd, focusing on logic, efficiency, and clean code. I’m motivated by challenges, learning through practice, and building strong foundations for a career in software development. 🚀
 
 ---
-
+<!--
 ### Core Skills
 
 
@@ -65,7 +65,7 @@ To strengthen my learning, I go beyond classes by studying technical books and c
 - **Platforms:** LeetCode, Codeforces, AtCoder
 
 ---
-
+-->
 **<div align="center"> My Stacks<br>**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
