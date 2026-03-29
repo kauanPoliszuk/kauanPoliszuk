@@ -11,7 +11,7 @@
 
 I’m a student of Systems Analysis and Development with a strong interest in back-end development and Cloud. Currently, I’m learning programming languages and their ecosystems, including Java, Python, Node.js, as well as databases, data structures, and algorithms. Recently, I’ve also developed a strong interest in gaining knowledge in cloud technologies, such as AZ-900 and Amazon AWS.
 
-To strengthen my learning, I go beyond classes by studying technical books and constantly practicing problem-solving on platforms like LeetCode and Beecrowd, focusing on logic, efficiency, and clean code. I’m motivated by challenges, learning through practice, and building strong foundations for a career in software development. 🚀
+To strengthen my learning, I go beyond classes by studying technical books and constantly practicing problem-solving on platforms like LeetCode and Beecrowd, focusing on logic, efficiency, and clean code. Learning through practice, and building strong foundations for a career in software development. 🚀
 
 ---
 <!--
